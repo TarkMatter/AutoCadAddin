@@ -1,0 +1,14 @@
+# ビルド成果物
+bin/
+obj/
+packages/
+
+# VSの設定
+.vs/
+
+# 一時ファイル
+*.user
+*.suo
+
+# AutoCADの実ファイルは上げない
+*.dll
